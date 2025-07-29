@@ -88,6 +88,10 @@
     "18": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "18"
+    },
+    "森林": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林"
     }
    }
   }
