@@ -92,6 +92,14 @@
     "森林": {
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "森林"
+    },
+    "AV": {
+      "api": "https://www.pgxdy.com/api/json.php/provide/vod",
+      "name": "AV"
+    },
+    "AV": {
+      "api": "https://www.kxgav.com/api/json.php/provide/vod",
+      "name": "AV"
     }
    }
   }
