@@ -94,12 +94,16 @@
       "name": "森林"
     },
     "AV": {
-      "api": "https://www.pgxdy.com/api.php/provide/vod",
+      "api": "https://www.pornhub.com/api.php/provide/vod",
       "name": "AV"
     },
-    "AV": {
+    "AV1": {
       "api": "https://www.kxgav.com/api.php/provide/vod",
-      "name": "AV"
+      "name": "AV1"
+    },
+    "AV1": {
+      "api": "https://https://www.xvideos.com/api.php/provide/vod",
+      "name": "AV1"  
     }
    }
   }
