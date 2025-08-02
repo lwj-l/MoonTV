@@ -94,11 +94,11 @@
       "name": "森林"
     },
     "AV": {
-      "api": "https://www.pgxdy.com/api/json.php/provide/vod",
+      "api": "https://www.pgxdy.com/api.php/provide/vod",
       "name": "AV"
     },
     "AV": {
-      "api": "https://www.kxgav.com/api/json.php/provide/vod",
+      "api": "https://www.kxgav.com/api.php/provide/vod",
       "name": "AV"
     }
    }
