@@ -93,17 +93,17 @@
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "森林"
     },
-    "AV": {
-      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
-      "name": "AV"
+    "爱旦": {
+      "api": "https://https://lovedan.net/api.php/provide/vod",
+      "name": "爱旦"
     },
-    "黄瓜": {
-      "api": "https://www.avre06.com/api.php/provide/vod",
-      "name": "黄瓜"
+    "百度": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度"
     },
-    "AV2": {
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "name": "AV2"  
+    "奥斯卡": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡"  
     }
    }
   }
